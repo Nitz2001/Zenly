@@ -1,2 +1,2 @@
 # Zenly
-Mental Well being mointoring app
+Mental well being mointoring app
